@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Type=Application
+Name=Phoenix Screen Recorder
+GenericName=Screen Recorder
+Comment=Record your screen and audio effortlessly
+Exec=phoenix_screen_recorder %U
+Icon=phoenix.screen.recorder
+Terminal=false
+StartupNotify=true
+StartupWMClass=phoenix.screen.recorder
+Categories=AudioVideo;Recorder;Utility;
+Keywords=screen;recorder;capture;video;audio;phoenix;
+

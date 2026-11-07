@@ -17,3 +17,7 @@ flutter_launcher_icons:
   macos:
     generate: true
     image_path: "assets/icon/icon.png"
+
+  # Note: flutter_launcher_icons does not natively support Linux.
+  # Linux icons are stored in linux/icons/ and handled natively via
+  # linux/runner/my_application.cc and linux/install.sh.
